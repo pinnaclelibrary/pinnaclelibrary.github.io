@@ -1,2 +1,3 @@
 # pinnaclelibrary.github.io
-Pinnacle
+
+https://pinnaclelibrary.github.io/
